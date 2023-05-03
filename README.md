@@ -35,6 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <h3>Configure Roles</h3>
 Admin Panel -> Agents -> Roles
+
 - Supreme Admin
 
 </p>
